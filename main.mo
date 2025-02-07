@@ -1,5 +1,4 @@
-//Please read the comments for better understanding
-
+//Please read the README.md file for better understanding
 
 import Debug "mo:base/Debug";
 import Int "mo:base/Int";
